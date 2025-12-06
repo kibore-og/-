@@ -9,8 +9,8 @@
      "restart": "pm2 restart vajira-md"
     },
   "dependencies": {
-        "@whiskeysockets/baileys": "npm:wileys",        
-    "@adiwajshing/keyed-db": "^0.2.4",
+        "@whiskeysockets/baileys": "npm:wileys",    
+"jimp": "latest",      "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
